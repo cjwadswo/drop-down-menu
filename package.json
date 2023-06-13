@@ -1,0 +1,12 @@
+{
+  "name": "@cjwadswo/drop-down-menu",
+  "version": "1.0.0",
+  "private": false,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cjwadswo",
+  "license": "ISC"
+}
